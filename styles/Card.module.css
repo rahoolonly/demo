@@ -1,0 +1,28 @@
+.companyLogoWithLink {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.goToSitelink {
+    font-size: 1.2rem;
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    padding: .3rem;
+    border-radius: .3rem;
+}
+
+.advertisedRate {
+    font-size: 1.6rem;
+}
+
+.averageMonthlyCost {
+    padding-left: .3rem;
+    font-size: 1.1rem;
+    border-left: 1px solid black;
+}
+
+.pros {
+    font-size: 1.2rem;
+}
